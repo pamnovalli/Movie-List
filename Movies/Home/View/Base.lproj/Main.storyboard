@@ -27,10 +27,6 @@
                                 </tableViewCellContentView>
                             </tableViewCell>
                         </prototypes>
-                        <connections>
-                            <outlet property="dataSource" destination="cFT-0z-Nzk" id="4r6-yk-JIF"/>
-                            <outlet property="delegate" destination="cFT-0z-Nzk" id="s9a-CX-Cqy"/>
-                        </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Filmes" id="Zcy-Ph-3Mf"/>
                 </tableViewController>

@@ -61,6 +61,12 @@
                 </constraints>
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="ivPoster" destination="9Ce-RZ-gyZ" id="bH7-Jk-RPB"/>
+                <outlet property="lbRating" destination="x4b-Jh-ZJe" id="elK-NL-dEe"/>
+                <outlet property="lbSummary" destination="sAk-V4-ap5" id="0zf-lg-rJm"/>
+                <outlet property="lbTitle" destination="rS3-9S-PG9" id="pAL-5d-WCf"/>
+            </connections>
             <point key="canvasLocation" x="131.8840579710145" y="91.741071428571431"/>
         </tableViewCell>
     </objects>
